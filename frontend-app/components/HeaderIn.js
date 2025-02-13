@@ -13,7 +13,7 @@ export default function HeaderIn() {
       <View style = {styles.headerStyle}>
         <AppLogo/>
         <View>
-          <Text style = {[styles.textStyle,  {paddingTop: getStatusBarHeight()}]}>AutoSpot</Text>
+          <Text style = {[styles.textStyle,  {paddingTop: getStatusBarHeight()}]}>ParkHere</Text>
         </View>
       </View>
   )
